@@ -18,7 +18,7 @@ This project implements a self-supervised Signed Distance Function (SDF) learnin
 
 ## 🧠 Model Architecture
 
-- **Network:** 5-layer MLP (4 hidden layers × 256 neurons)
+- **Network:** 6-layer MLP (4 hidden layers × 256 neurons)
 - **Activation:** Sinusoidal activation (ω₀ = 30)
 - **Optimizer:** Adam (`lr=1e-5`)
 - **Training:** 10,000 epochs
