@@ -64,8 +64,8 @@ This project implements a self-supervised Signed Distance Function (SDF) learnin
 
 | | | |
 |-|-|-|
-| ![](assets/animations/anim1.gif) | ![](assets/animations/anim2.gif) | ![](assets/animations/anim3.gif) |
-| ![](assets/animations/anim4.gif) | ![](assets/animations/anim5.gif) | ![](assets/animations/anim6.gif) |
+| ![](assets/animations/anim1.mp4) | ![](assets/animations/anim2.mp4) | ![](assets/animations/anim3.mp4) |
+
 
 ---
 
