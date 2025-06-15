@@ -48,14 +48,14 @@ This project implements a self-supervised Signed Distance Function (SDF) learnin
 ## Results
 
 |![](bunny1.png)|
-|![](bunny2.png)|
+|![](bunnn2.png)|
 |![](Elephant.png)|
 |![](sphere.png)|
 |![](cylinderr.png)|
 |![](lug_mesh.png)|
 |![](Petal.png)|
 |![](Sacrum.png)|
-|![](Carvical vertebrae.png)|
+|![](Carvicalvertebrae.png)|
 
 
 
