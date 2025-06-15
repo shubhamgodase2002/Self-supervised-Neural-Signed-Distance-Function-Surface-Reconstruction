@@ -44,6 +44,13 @@ This project implements a self-supervised Signed Distance Function (SDF) learnin
 
 ---
 
+
+## Results
+
+|![](bunny1.png)|
+
+
+---
 ## 🎯 Evaluation Results
 
 | Model            | Chamfer Distance | F-Score | Normal Consistency |
