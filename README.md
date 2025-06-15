@@ -55,7 +55,7 @@ This project implements a self-supervised Signed Distance Function (SDF) learnin
 |![](lug_mesh.png)|
 |![](Petal.png)|
 |![](Sacrum.png)|
-|![](Carvicalvertebrae.png)|
+|![](Carvical vertebrae.png)|
 
 
 
