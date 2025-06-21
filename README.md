@@ -106,7 +106,7 @@ This project implements a self-supervised Signed Distance Function (SDF) learnin
 ## 👨‍💻 Author
 
 Shubham Godase (MT2308)  
-Savitribai Phule Pune University (SPPU), SCMS
+Savitribai Phule Pune University (SPPU), SCMS.
 
 ---
 
